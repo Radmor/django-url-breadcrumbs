@@ -5,6 +5,9 @@ CHANGELOG
 **unreleased**
 ==============
 
+v. 0.3.4
+========
+
 * Ability to pass template strings in mapping/verbose_name
 * Support urls without a trailing separator
 * Add tests against newer Python and Django versions
